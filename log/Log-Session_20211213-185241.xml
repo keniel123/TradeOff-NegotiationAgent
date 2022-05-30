@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Mon Dec 13 18:52:41 GMT 2021" timeOfAgreement="0.8524590163934426" lastAction="(Accept  bid:Bid[06-09: 0 kW,, 09-19: 25 kW,, 19-22: 25 kW,, 22-06: 100 kW,])" domain="etc/templates/ANAC2016/AgentLightSmartGrid/SmartEnergyGrid.xml" bids="102" runtime="0.142821672" finalOutcome="Bid[06-09: 0 kW,, 09-19: 25 kW,, 19-22: 25 kW,, 22-06: 100 kW,]" startingAgent="BoulwareNegotiationParty@0" deadline="60rounds">
+<resultsOfAgent agent="BoulwareNegotiationParty@0" agentDesc="Time-based agent" utilspace="etc/templates/ANAC2016/AgentLightSmartGrid/SmartEnergyGrid_util1.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.6300274011797506" finalUtility="0.6300274011797506" discountedUtility="0.6300274011797506" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21@1" agentDesc="Group 21 Agent that makes trade offs" utilspace="etc/templates/ANAC2016/AgentLightSmartGrid/SmartEnergyGrid_util2.xml" agentClass="group21.Agent21" userUtility="0.8868282421041419" finalUtility="0.8868282421041419" discountedUtility="0.8868282421041419" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

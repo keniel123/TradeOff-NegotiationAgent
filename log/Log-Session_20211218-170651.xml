@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Sat Dec 18 17:06:54 GMT 2021" timeOfAgreement="0.7377049180327869" lastAction="(Accept  bid:Bid[Number of Wind Turbines: larger than 120, less than or equal to 140, Price Per Wind Turbine: very cheap, Sound: nearly slient, Spacing: fairly close, Size Of Wind Turbines: smallest in the world, Onshore or Offshore: offshore, Material: carbon fiber])" domain="etc/templates/ANAC2016/Maxoops/WindFarm.xml" bids="89" runtime="2.843192123" finalOutcome="Bid[Number of Wind Turbines: larger than 120, less than or equal to 140, Price Per Wind Turbine: very cheap, Sound: nearly slient, Spacing: fairly close, Size Of Wind Turbines: smallest in the world, Onshore or Offshore: offshore, Material: carbon fiber]" startingAgent="BoulwareNegotiationParty@2" deadline="60rounds">
+<resultsOfAgent agent="BoulwareNegotiationParty@2" agentDesc="Time-based agent" utilspace="etc/templates/ANAC2016/Maxoops/WindFarm_util1.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.8000000000000002" finalUtility="0.8000000000000002" discountedUtility="0.8000000000000002" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21@3" agentDesc="Group 21 Agent that makes trade offs" utilspace="etc/templates/ANAC2016/Maxoops/WindFarm_util2.xml" agentClass="group21.Agent21" userUtility="0.8547812279688783" finalUtility="0.8547812279688783" discountedUtility="0.8547812279688783" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

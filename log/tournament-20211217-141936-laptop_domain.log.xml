@@ -1,0 +1,727 @@
+<?xml version="1.0" ?><Tournament>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:36 GMT 2021" timeOfAgreement="0.3770491803278688" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="44" runtime="0.034444245" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="Agent21@6144" deadline="60rounds">
+<resultsOfAgent agent="Agent21@6144" agentDesc="Group 21 Agent that makes trade offs" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="group21.Agent21" userUtility="0.723864061577841" finalUtility="1.0" discountedUtility="0.723864061577841" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21@6145" agentDesc="Group 21 Agent that makes trade offs" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="group21.Agent21" userUtility="0.5900255019615432" finalUtility="0.8151053951696905" discountedUtility="0.5900255019615432" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:36 GMT 2021" timeOfAgreement="0.36065573770491804" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="42" runtime="0.023639586" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="TimeDependentAgentBoulware@6146" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware@6146" agentDesc="reluctant to concede" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.7341061868423303" finalUtility="1.0" discountedUtility="0.7341061868423303" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21@6147" agentDesc="Group 21 Agent that makes trade offs" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="group21.Agent21" userUtility="0.5983739135226323" finalUtility="0.8151053951696905" discountedUtility="0.5983739135226323" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:36 GMT 2021" timeOfAgreement="0.06557377049180328" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="6" runtime="0.005258121" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="BayesianAgent@6148" deadline="60rounds">
+<resultsOfAgent agent="BayesianAgent@6148" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.BayesianAgent" userUtility="0.8051048767463027" finalUtility="0.851647611783233" discountedUtility="0.8051048767463027" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21@6149" agentDesc="Group 21 Agent that makes trade offs" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="group21.Agent21" userUtility="0.8896997744932428" finalUtility="0.9411329008630686" discountedUtility="0.8896997744932428" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:37 GMT 2021" timeOfAgreement="0.36065573770491804" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="42" runtime="0.052425387" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="BRAMAgent2@6150" deadline="60rounds">
+<resultsOfAgent agent="BRAMAgent2@6150" agentDesc="ANAC2012" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2012.BRAMAgent2.BRAMAgent2" userUtility="0.7341061868423303" finalUtility="1.0" discountedUtility="0.7341061868423303" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21@6151" agentDesc="Group 21 Agent that makes trade offs" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="group21.Agent21" userUtility="0.5983739135226323" finalUtility="0.8151053951696905" discountedUtility="0.5983739135226323" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:37 GMT 2021" timeOfAgreement="0.06557377049180328" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="6" runtime="0.523860424" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="IAMhaggler2011@6156" deadline="60rounds">
+<resultsOfAgent agent="IAMhaggler2011@6156" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.IAMhaggler2011.IAMhaggler2011" userUtility="0.8051048767463027" finalUtility="0.851647611783233" discountedUtility="0.8051048767463027" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21@6157" agentDesc="Group 21 Agent that makes trade offs" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="group21.Agent21" userUtility="0.8896997744932428" finalUtility="0.9411329008630686" discountedUtility="0.8896997744932428" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:37 GMT 2021" timeOfAgreement="0.36065573770491804" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="42" runtime="0.022436506" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="NiceTitForTat@6186" deadline="60rounds">
+<resultsOfAgent agent="NiceTitForTat@6186" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.Nice_Tit_for_Tat.NiceTitForTat" userUtility="0.7341061868423303" finalUtility="1.0" discountedUtility="0.7341061868423303" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21@6187" agentDesc="Group 21 Agent that makes trade offs" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="group21.Agent21" userUtility="0.5983739135226323" finalUtility="0.8151053951696905" discountedUtility="0.5983739135226323" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:37 GMT 2021" timeOfAgreement="0.19672131147540983" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 23'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="22" runtime="0.0132409" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 23'' LCD]" startingAgent="Gahboninho@6188" deadline="60rounds">
+<resultsOfAgent agent="Gahboninho@6188" agentDesc="ANAC2011 compatible with non-linear utility spaces" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.Gahboninho.Gahboninho" userUtility="0.7951124051919908" finalUtility="0.9411329008630686" discountedUtility="0.7951124051919908" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21@6189" agentDesc="Group 21 Agent that makes trade offs" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="group21.Agent21" userUtility="0.43788117720589237" finalUtility="0.5182970103926483" discountedUtility="0.43788117720589237" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:37 GMT 2021" timeOfAgreement="0.6557377049180327" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="79" runtime="0.030473407" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="Agent_K@6190" deadline="60rounds">
+<resultsOfAgent agent="Agent_K@6190" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2010.AgentK.Agent_K" userUtility="0.5700661371807053" finalUtility="1.0" discountedUtility="0.5700661371807053" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21@6191" agentDesc="Group 21 Agent that makes trade offs" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="group21.Agent21" userUtility="0.4646639840195378" finalUtility="0.8151053951696905" discountedUtility="0.4646639840195378" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:37 GMT 2021" timeOfAgreement="0.19672131147540983" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 23'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="22" runtime="0.017979975" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 23'' LCD]" startingAgent="IAMhaggler@6192" deadline="60rounds">
+<resultsOfAgent agent="IAMhaggler@6192" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2010.Southampton.IAMhaggler" userUtility="0.7951124051919908" finalUtility="0.9411329008630686" discountedUtility="0.7951124051919908" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21@6193" agentDesc="Group 21 Agent that makes trade offs" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="group21.Agent21" userUtility="0.43788117720589237" finalUtility="0.5182970103926483" discountedUtility="0.43788117720589237" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:37 GMT 2021" timeOfAgreement="0.6885245901639344" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 20'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="82" runtime="0.034024544" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 20'' LCD]" startingAgent="BoulwareNegotiationParty@6198" deadline="60rounds">
+<resultsOfAgent agent="BoulwareNegotiationParty@6198" agentDesc="Time-based agent" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.48898490247308213" finalUtility="0.882213997554383" discountedUtility="0.48898490247308213" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21@6199" agentDesc="Group 21 Agent that makes trade offs" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="group21.Agent21" userUtility="0.36953258905931197" finalUtility="0.6667012027811694" discountedUtility="0.36953258905931197" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:38 GMT 2021" timeOfAgreement="0.04918032786885246" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="4" runtime="0.004323864" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="ConcederNegotiationParty@6200" deadline="60rounds">
+<resultsOfAgent agent="ConcederNegotiationParty@6200" agentDesc="Time-based conceder" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" userUtility="0.816496497682301" finalUtility="0.851647611783233" discountedUtility="0.816496497682301" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21@6201" agentDesc="Group 21 Agent that makes trade offs" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="group21.Agent21" userUtility="0.9022883488151741" finalUtility="0.9411329008630686" discountedUtility="0.9022883488151741" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:38 GMT 2021" timeOfAgreement="0.5245901639344263" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="63" runtime="0.063547445" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="Agent21@6202" deadline="60rounds">
+<resultsOfAgent agent="Agent21@6202" agentDesc="Group 21 Agent that makes trade offs" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="group21.Agent21" userUtility="0.46285984247803375" finalUtility="0.725620106089855" discountedUtility="0.46285984247803375" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware@6203" agentDesc="reluctant to concede" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.6378817766947555" finalUtility="1.0" discountedUtility="0.6378817766947555" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:38 GMT 2021" timeOfAgreement="0.7213114754098361" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="87" runtime="0.028729556" finalOutcome="Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="TimeDependentAgentBoulware@6208" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware@6208" agentDesc="reluctant to concede" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.4710220897105951" finalUtility="0.8740242984783759" discountedUtility="0.4710220897105951" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware@6209" agentDesc="reluctant to concede" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.4710220897105952" finalUtility="0.874024298478376" discountedUtility="0.4710220897105952" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:38 GMT 2021" timeOfAgreement="0.16393442622950818" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="18" runtime="0.032309986" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="BayesianAgent@6214" deadline="60rounds">
+<resultsOfAgent agent="BayesianAgent@6214" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.BayesianAgent" userUtility="0.6305080256426796" finalUtility="0.725620106089855" discountedUtility="0.6305080256426796" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware@6215" agentDesc="reluctant to concede" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.8689230361053453" finalUtility="1.0" discountedUtility="0.8689230361053453" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:38 GMT 2021" timeOfAgreement="0.7704918032786885" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="93" runtime="0.023676477" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="BRAMAgent2@6216" deadline="60rounds">
+<resultsOfAgent agent="BRAMAgent2@6216" agentDesc="ANAC2012" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2012.BRAMAgent2.BRAMAgent2" userUtility="0.5166687108179503" finalUtility="1.0" discountedUtility="0.5166687108179503" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware@6217" agentDesc="reluctant to concede" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.4211394537030799" finalUtility="0.8151053951696905" discountedUtility="0.4211394537030799" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:38 GMT 2021" timeOfAgreement="0.32786885245901637" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="38" runtime="0.408386989" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="IAMhaggler2011@6222" deadline="60rounds">
+<resultsOfAgent agent="IAMhaggler2011@6222" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.IAMhaggler2011.IAMhaggler2011" userUtility="0.547862947930224" finalUtility="0.725620106089855" discountedUtility="0.547862947930224" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware@6223" agentDesc="reluctant to concede" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.7550272426745311" finalUtility="1.0" discountedUtility="0.7550272426745311" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:38 GMT 2021" timeOfAgreement="0.7704918032786885" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="93" runtime="0.027978266" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="NiceTitForTat@6244" deadline="60rounds">
+<resultsOfAgent agent="NiceTitForTat@6244" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.Nice_Tit_for_Tat.NiceTitForTat" userUtility="0.5166687108179503" finalUtility="1.0" discountedUtility="0.5166687108179503" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware@6245" agentDesc="reluctant to concede" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.4211394537030799" finalUtility="0.8151053951696905" discountedUtility="0.4211394537030799" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:38 GMT 2021" timeOfAgreement="0.7704918032786885" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="93" runtime="0.044218934" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="Gahboninho@6246" deadline="60rounds">
+<resultsOfAgent agent="Gahboninho@6246" agentDesc="ANAC2011 compatible with non-linear utility spaces" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.Gahboninho.Gahboninho" userUtility="0.5166687108179503" finalUtility="1.0" discountedUtility="0.5166687108179503" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware@6247" agentDesc="reluctant to concede" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.4211394537030799" finalUtility="0.8151053951696905" discountedUtility="0.4211394537030799" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:38 GMT 2021" timeOfAgreement="0.7704918032786885" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="93" runtime="0.015021852" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="Agent_K@6252" deadline="60rounds">
+<resultsOfAgent agent="Agent_K@6252" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2010.AgentK.Agent_K" userUtility="0.5166687108179503" finalUtility="1.0" discountedUtility="0.5166687108179503" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware@6253" agentDesc="reluctant to concede" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.4211394537030799" finalUtility="0.8151053951696905" discountedUtility="0.4211394537030799" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:38 GMT 2021" timeOfAgreement="0.7377049180327869" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="88" runtime="0.0506096" finalOutcome="Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="IAMhaggler@6258" deadline="60rounds">
+<resultsOfAgent agent="IAMhaggler@6258" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2010.Southampton.IAMhaggler" userUtility="0.4644504692398449" finalUtility="0.8740242984783759" discountedUtility="0.4644504692398449" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware@6259" agentDesc="reluctant to concede" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.46445046923984495" finalUtility="0.874024298478376" discountedUtility="0.46445046923984495" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:38 GMT 2021" timeOfAgreement="0.6885245901639344" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="83" runtime="0.017023306" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="BoulwareNegotiationParty@6264" deadline="60rounds">
+<resultsOfAgent agent="BoulwareNegotiationParty@6264" agentDesc="Time-based agent" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.4720428666329185" finalUtility="0.851647611783233" discountedUtility="0.4720428666329185" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware@6265" agentDesc="reluctant to concede" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.521641893031025" finalUtility="0.9411329008630686" discountedUtility="0.521641893031025" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:39 GMT 2021" timeOfAgreement="0.09836065573770492" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="11" runtime="0.025967019" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="ConcederNegotiationParty@6266" deadline="60rounds">
+<resultsOfAgent agent="ConcederNegotiationParty@6266" agentDesc="Time-based conceder" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" userUtility="0.6669573986669003" finalUtility="0.725620106089855" discountedUtility="0.6669573986669003" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware@6267" agentDesc="reluctant to concede" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.9191550689808333" finalUtility="1.0" discountedUtility="0.9191550689808333" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:39 GMT 2021" timeOfAgreement="0.13114754098360656" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="14" runtime="0.008870277" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="Agent21@6272" deadline="60rounds">
+<resultsOfAgent agent="Agent21@6272" agentDesc="Group 21 Agent that makes trade offs" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="group21.Agent21" userUtility="0.8936861939128543" finalUtility="1.0" discountedUtility="0.8936861939128543" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BayesianAgent@6273" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.BayesianAgent" userUtility="0.7284484382470338" finalUtility="0.8151053951696905" discountedUtility="0.7284484382470338" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:39 GMT 2021" timeOfAgreement="0.09836065573770492" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="11" runtime="0.004520915" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="TimeDependentAgentBoulware@6274" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware@6274" agentDesc="reluctant to concede" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.9191550689808333" finalUtility="1.0" discountedUtility="0.9191550689808333" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BayesianAgent@6275" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.BayesianAgent" userUtility="0.7492082557238463" finalUtility="0.8151053951696905" discountedUtility="0.7492082557238463" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:39 GMT 2021" timeOfAgreement="0.04918032786885246" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="5" runtime="0.003983874" finalOutcome="Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="BayesianAgent@6276" deadline="60rounds">
+<resultsOfAgent agent="BayesianAgent@6276" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.BayesianAgent" userUtility="0.8379496034780919" finalUtility="0.8740242984783759" discountedUtility="0.8379496034780919" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BayesianAgent@6277" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.BayesianAgent" userUtility="0.837949603478092" finalUtility="0.874024298478376" discountedUtility="0.837949603478092" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:39 GMT 2021" timeOfAgreement="0.09836065573770492" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="11" runtime="0.005186184" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="BRAMAgent2@6278" deadline="60rounds">
+<resultsOfAgent agent="BRAMAgent2@6278" agentDesc="ANAC2012" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2012.BRAMAgent2.BRAMAgent2" userUtility="0.9191550689808333" finalUtility="1.0" discountedUtility="0.9191550689808333" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BayesianAgent@6279" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.BayesianAgent" userUtility="0.7492082557238463" finalUtility="0.8151053951696905" discountedUtility="0.7492082557238463" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:39 GMT 2021" timeOfAgreement="0.06557377049180328" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="6" runtime="0.02654173" finalOutcome="Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="IAMhaggler2011@6280" deadline="60rounds">
+<resultsOfAgent agent="IAMhaggler2011@6280" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.IAMhaggler2011.IAMhaggler2011" userUtility="0.8262586724411695" finalUtility="0.8740242984783759" discountedUtility="0.8262586724411695" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BayesianAgent@6281" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.BayesianAgent" userUtility="0.8262586724411696" finalUtility="0.874024298478376" discountedUtility="0.8262586724411696" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:39 GMT 2021" timeOfAgreement="0.09836065573770492" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="11" runtime="0.006188169" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="NiceTitForTat@6282" deadline="60rounds">
+<resultsOfAgent agent="NiceTitForTat@6282" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.Nice_Tit_for_Tat.NiceTitForTat" userUtility="0.9191550689808333" finalUtility="1.0" discountedUtility="0.9191550689808333" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BayesianAgent@6283" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.BayesianAgent" userUtility="0.7492082557238463" finalUtility="0.8151053951696905" discountedUtility="0.7492082557238463" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:39 GMT 2021" timeOfAgreement="0.09836065573770492" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="11" runtime="0.004238055" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="Gahboninho@6284" deadline="60rounds">
+<resultsOfAgent agent="Gahboninho@6284" agentDesc="ANAC2011 compatible with non-linear utility spaces" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.Gahboninho.Gahboninho" userUtility="0.9191550689808333" finalUtility="1.0" discountedUtility="0.9191550689808333" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BayesianAgent@6285" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.BayesianAgent" userUtility="0.7492082557238463" finalUtility="0.8151053951696905" discountedUtility="0.7492082557238463" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:39 GMT 2021" timeOfAgreement="0.09836065573770492" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="11" runtime="0.005377618" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="Agent_K@6286" deadline="60rounds">
+<resultsOfAgent agent="Agent_K@6286" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2010.AgentK.Agent_K" userUtility="0.9191550689808333" finalUtility="1.0" discountedUtility="0.9191550689808333" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BayesianAgent@6287" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.BayesianAgent" userUtility="0.7492082557238463" finalUtility="0.8151053951696905" discountedUtility="0.7492082557238463" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:39 GMT 2021" timeOfAgreement="0.09836065573770492" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="11" runtime="0.009398291" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="IAMhaggler@6292" deadline="60rounds">
+<resultsOfAgent agent="IAMhaggler@6292" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2010.Southampton.IAMhaggler" userUtility="0.9191550689808333" finalUtility="1.0" discountedUtility="0.9191550689808333" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BayesianAgent@6293" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.BayesianAgent" userUtility="0.7492082557238463" finalUtility="0.8151053951696905" discountedUtility="0.7492082557238463" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:39 GMT 2021" timeOfAgreement="0.09836065573770492" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="11" runtime="0.00465497" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="BoulwareNegotiationParty@6294" deadline="60rounds">
+<resultsOfAgent agent="BoulwareNegotiationParty@6294" agentDesc="Time-based agent" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.9191550689808333" finalUtility="1.0" discountedUtility="0.9191550689808333" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BayesianAgent@6295" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.BayesianAgent" userUtility="0.7492082557238463" finalUtility="0.8151053951696905" discountedUtility="0.7492082557238463" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:39 GMT 2021" timeOfAgreement="0.04918032786885246" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="4" runtime="0.003207712" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="ConcederNegotiationParty@6296" deadline="60rounds">
+<resultsOfAgent agent="ConcederNegotiationParty@6296" agentDesc="Time-based conceder" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" userUtility="0.816496497682301" finalUtility="0.851647611783233" discountedUtility="0.816496497682301" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BayesianAgent@6297" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.BayesianAgent" userUtility="0.9022883488151741" finalUtility="0.9411329008630686" discountedUtility="0.9022883488151741" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:39 GMT 2021" timeOfAgreement="0.5245901639344263" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="63" runtime="0.029582124" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="Agent21@6298" deadline="60rounds">
+<resultsOfAgent agent="Agent21@6298" agentDesc="Group 21 Agent that makes trade offs" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="group21.Agent21" userUtility="0.46285984247803375" finalUtility="0.725620106089855" discountedUtility="0.46285984247803375" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BRAMAgent2@6299" agentDesc="ANAC2012" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2012.BRAMAgent2.BRAMAgent2" userUtility="0.6378817766947555" finalUtility="1.0" discountedUtility="0.6378817766947555" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:39 GMT 2021" timeOfAgreement="0.8524590163934426" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="102" runtime="0.039070621" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="TimeDependentAgentBoulware@6300" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware@6300" agentDesc="reluctant to concede" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.3494717906109576" finalUtility="0.725620106089855" discountedUtility="0.3494717906109576" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BRAMAgent2@6301" agentDesc="ANAC2012" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2012.BRAMAgent2.BRAMAgent2" userUtility="0.48161811901017226" finalUtility="1.0" discountedUtility="0.48161811901017226" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:39 GMT 2021" timeOfAgreement="0.16393442622950818" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="18" runtime="0.00797234" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="BayesianAgent@6302" deadline="60rounds">
+<resultsOfAgent agent="BayesianAgent@6302" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.BayesianAgent" userUtility="0.6305080256426796" finalUtility="0.725620106089855" discountedUtility="0.6305080256426796" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BRAMAgent2@6303" agentDesc="ANAC2012" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2012.BRAMAgent2.BRAMAgent2" userUtility="0.8689230361053453" finalUtility="1.0" discountedUtility="0.8689230361053453" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:39 GMT 2021" lastAction="(Offer  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="120" runtime="0.065574733" finalOutcome="-" startingAgent="BRAMAgent2@6304" deadline="60rounds">
+<resultsOfAgent agent="BRAMAgent2@6304" agentDesc="ANAC2012" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2012.BRAMAgent2.BRAMAgent2" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BRAMAgent2@6305" agentDesc="ANAC2012" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2012.BRAMAgent2.BRAMAgent2" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:39 GMT 2021" timeOfAgreement="0.3114754098360656" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="36" runtime="0.405794007" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="IAMhaggler2011@6310" deadline="60rounds">
+<resultsOfAgent agent="IAMhaggler2011@6310" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.IAMhaggler2011.IAMhaggler2011" userUtility="0.5556147914576435" finalUtility="0.725620106089855" discountedUtility="0.5556147914576435" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BRAMAgent2@6311" agentDesc="ANAC2012" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2012.BRAMAgent2.BRAMAgent2" userUtility="0.7657103032214497" finalUtility="1.0" discountedUtility="0.7657103032214497" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:40 GMT 2021" timeOfAgreement="0.9836065573770492" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="118" runtime="0.031859901" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="NiceTitForTat@6336" deadline="60rounds">
+<resultsOfAgent agent="NiceTitForTat@6336" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.Nice_Tit_for_Tat.NiceTitForTat" userUtility="0.3123181144310167" finalUtility="0.725620106089855" discountedUtility="0.3123181144310167" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BRAMAgent2@6337" agentDesc="ANAC2012" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2012.BRAMAgent2.BRAMAgent2" userUtility="0.4304154636976689" finalUtility="1.0" discountedUtility="0.4304154636976689" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:40 GMT 2021" timeOfAgreement="0.9836065573770492" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="119" runtime="0.027863019" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="Gahboninho@6338" deadline="60rounds">
+<resultsOfAgent agent="Gahboninho@6338" agentDesc="ANAC2011 compatible with non-linear utility spaces" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.Gahboninho.Gahboninho" userUtility="0.3123181144310167" finalUtility="0.725620106089855" discountedUtility="0.3123181144310167" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BRAMAgent2@6339" agentDesc="ANAC2012" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2012.BRAMAgent2.BRAMAgent2" userUtility="0.4304154636976689" finalUtility="1.0" discountedUtility="0.4304154636976689" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:40 GMT 2021" lastAction="(Offer  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="120" runtime="0.025048212" finalOutcome="-" startingAgent="Agent_K@6340" deadline="60rounds">
+<resultsOfAgent agent="Agent_K@6340" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2010.AgentK.Agent_K" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BRAMAgent2@6341" agentDesc="ANAC2012" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2012.BRAMAgent2.BRAMAgent2" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:40 GMT 2021" lastAction="(Offer  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="120" runtime="0.038437285" finalOutcome="-" startingAgent="IAMhaggler@6342" deadline="60rounds">
+<resultsOfAgent agent="IAMhaggler@6342" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2010.Southampton.IAMhaggler" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BRAMAgent2@6343" agentDesc="ANAC2012" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2012.BRAMAgent2.BRAMAgent2" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:40 GMT 2021" timeOfAgreement="0.7868852459016393" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="95" runtime="0.027609895" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="BoulwareNegotiationParty@6348" deadline="60rounds">
+<resultsOfAgent agent="BoulwareNegotiationParty@6348" agentDesc="Time-based agent" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.3696745907964703" finalUtility="0.725620106089855" discountedUtility="0.3696745907964703" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BRAMAgent2@6349" agentDesc="ANAC2012" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2012.BRAMAgent2.BRAMAgent2" userUtility="0.5094602364156275" finalUtility="1.0" discountedUtility="0.5094602364156275" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:40 GMT 2021" timeOfAgreement="0.09836065573770492" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="11" runtime="0.004891275" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="ConcederNegotiationParty@6350" deadline="60rounds">
+<resultsOfAgent agent="ConcederNegotiationParty@6350" agentDesc="Time-based conceder" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" userUtility="0.6669573986669003" finalUtility="0.725620106089855" discountedUtility="0.6669573986669003" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BRAMAgent2@6351" agentDesc="ANAC2012" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2012.BRAMAgent2.BRAMAgent2" userUtility="0.9191550689808333" finalUtility="1.0" discountedUtility="0.9191550689808333" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:40 GMT 2021" timeOfAgreement="0.19672131147540983" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="23" runtime="0.316600477" finalOutcome="Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="Agent21@6352" deadline="60rounds">
+<resultsOfAgent agent="Agent21@6352" agentDesc="Group 21 Agent that makes trade offs" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="group21.Agent21" userUtility="0.7384159681614365" finalUtility="0.8740242984783759" discountedUtility="0.7384159681614365" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="IAMhaggler2011@6353" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.IAMhaggler2011.IAMhaggler2011" userUtility="0.7384159681614365" finalUtility="0.874024298478376" discountedUtility="0.7384159681614365" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:40 GMT 2021" timeOfAgreement="0.06557377049180328" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="7" runtime="0.04692876" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="TimeDependentAgentBoulware@6382" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware@6382" agentDesc="reluctant to concede" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.9453497733182434" finalUtility="1.0" discountedUtility="0.9453497733182434" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="IAMhaggler2011@6383" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.IAMhaggler2011.IAMhaggler2011" userUtility="0.7705597005541441" finalUtility="0.8151053951696905" discountedUtility="0.7705597005541441" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:40 GMT 2021" timeOfAgreement="0.08196721311475409" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="8" runtime="0.050165451" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="BayesianAgent@6388" deadline="60rounds">
+<resultsOfAgent agent="BayesianAgent@6388" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.BayesianAgent" userUtility="0.7938721897774651" finalUtility="0.851647611783233" discountedUtility="0.7938721897774651" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="IAMhaggler2011@6389" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.IAMhaggler2011.IAMhaggler2011" userUtility="0.8772868338295171" finalUtility="0.9411329008630686" discountedUtility="0.8772868338295171" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:40 GMT 2021" timeOfAgreement="0.06557377049180328" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="7" runtime="0.048164152" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="BRAMAgent2@6398" deadline="60rounds">
+<resultsOfAgent agent="BRAMAgent2@6398" agentDesc="ANAC2012" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2012.BRAMAgent2.BRAMAgent2" userUtility="0.9453497733182434" finalUtility="1.0" discountedUtility="0.9453497733182434" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="IAMhaggler2011@6399" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.IAMhaggler2011.IAMhaggler2011" userUtility="0.7705597005541441" finalUtility="0.8151053951696905" discountedUtility="0.7705597005541441" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:40 GMT 2021" timeOfAgreement="0.06557377049180328" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="7" runtime="0.023027052" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="IAMhaggler2011@6404" deadline="60rounds">
+<resultsOfAgent agent="IAMhaggler2011@6404" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.IAMhaggler2011.IAMhaggler2011" userUtility="0.8051048767463027" finalUtility="0.851647611783233" discountedUtility="0.8051048767463027" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="IAMhaggler2011@6405" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.IAMhaggler2011.IAMhaggler2011" userUtility="0.8896997744932428" finalUtility="0.9411329008630686" discountedUtility="0.8896997744932428" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:41 GMT 2021" timeOfAgreement="0.06557377049180328" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="7" runtime="0.025593069" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="NiceTitForTat@6406" deadline="60rounds">
+<resultsOfAgent agent="NiceTitForTat@6406" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.Nice_Tit_for_Tat.NiceTitForTat" userUtility="0.9453497733182434" finalUtility="1.0" discountedUtility="0.9453497733182434" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="IAMhaggler2011@6407" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.IAMhaggler2011.IAMhaggler2011" userUtility="0.7705597005541441" finalUtility="0.8151053951696905" discountedUtility="0.7705597005541441" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:41 GMT 2021" timeOfAgreement="0.06557377049180328" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="7" runtime="0.024325491" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="Gahboninho@6408" deadline="60rounds">
+<resultsOfAgent agent="Gahboninho@6408" agentDesc="ANAC2011 compatible with non-linear utility spaces" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.Gahboninho.Gahboninho" userUtility="0.9453497733182434" finalUtility="1.0" discountedUtility="0.9453497733182434" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="IAMhaggler2011@6409" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.IAMhaggler2011.IAMhaggler2011" userUtility="0.7705597005541441" finalUtility="0.8151053951696905" discountedUtility="0.7705597005541441" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:41 GMT 2021" timeOfAgreement="0.06557377049180328" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="7" runtime="0.026160513" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="Agent_K@6410" deadline="60rounds">
+<resultsOfAgent agent="Agent_K@6410" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2010.AgentK.Agent_K" userUtility="0.9453497733182434" finalUtility="1.0" discountedUtility="0.9453497733182434" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="IAMhaggler2011@6411" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.IAMhaggler2011.IAMhaggler2011" userUtility="0.7705597005541441" finalUtility="0.8151053951696905" discountedUtility="0.7705597005541441" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:41 GMT 2021" timeOfAgreement="0.06557377049180328" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="7" runtime="0.023958143" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="IAMhaggler@6416" deadline="60rounds">
+<resultsOfAgent agent="IAMhaggler@6416" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2010.Southampton.IAMhaggler" userUtility="0.9453497733182434" finalUtility="1.0" discountedUtility="0.9453497733182434" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="IAMhaggler2011@6417" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.IAMhaggler2011.IAMhaggler2011" userUtility="0.7705597005541441" finalUtility="0.8151053951696905" discountedUtility="0.7705597005541441" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:41 GMT 2021" timeOfAgreement="0.06557377049180328" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="7" runtime="0.022628638" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="BoulwareNegotiationParty@6418" deadline="60rounds">
+<resultsOfAgent agent="BoulwareNegotiationParty@6418" agentDesc="Time-based agent" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.9453497733182434" finalUtility="1.0" discountedUtility="0.9453497733182434" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="IAMhaggler2011@6419" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.IAMhaggler2011.IAMhaggler2011" userUtility="0.7705597005541441" finalUtility="0.8151053951696905" discountedUtility="0.7705597005541441" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:41 GMT 2021" timeOfAgreement="0.08196721311475409" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="8" runtime="0.04482762" finalOutcome="Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="ConcederNegotiationParty@6420" deadline="60rounds">
+<resultsOfAgent agent="ConcederNegotiationParty@6420" agentDesc="Time-based conceder" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" userUtility="0.8147308512952748" finalUtility="0.8740242984783759" discountedUtility="0.8147308512952748" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="IAMhaggler2011@6421" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.IAMhaggler2011.IAMhaggler2011" userUtility="0.8147308512952749" finalUtility="0.874024298478376" discountedUtility="0.8147308512952749" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:41 GMT 2021" timeOfAgreement="0.5245901639344263" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="63" runtime="0.033373274" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="Agent21@6426" deadline="60rounds">
+<resultsOfAgent agent="Agent21@6426" agentDesc="Group 21 Agent that makes trade offs" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="group21.Agent21" userUtility="0.46285984247803375" finalUtility="0.725620106089855" discountedUtility="0.46285984247803375" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="NiceTitForTat@6427" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.Nice_Tit_for_Tat.NiceTitForTat" userUtility="0.6378817766947555" finalUtility="1.0" discountedUtility="0.6378817766947555" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:41 GMT 2021" timeOfAgreement="0.8524590163934426" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="102" runtime="0.037331166" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="TimeDependentAgentBoulware@6428" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware@6428" agentDesc="reluctant to concede" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.3494717906109576" finalUtility="0.725620106089855" discountedUtility="0.3494717906109576" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="NiceTitForTat@6429" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.Nice_Tit_for_Tat.NiceTitForTat" userUtility="0.48161811901017226" finalUtility="1.0" discountedUtility="0.48161811901017226" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:41 GMT 2021" timeOfAgreement="0.16393442622950818" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="18" runtime="0.007228858" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="BayesianAgent@6430" deadline="60rounds">
+<resultsOfAgent agent="BayesianAgent@6430" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.BayesianAgent" userUtility="0.6305080256426796" finalUtility="0.725620106089855" discountedUtility="0.6305080256426796" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="NiceTitForTat@6431" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.Nice_Tit_for_Tat.NiceTitForTat" userUtility="0.8689230361053453" finalUtility="1.0" discountedUtility="0.8689230361053453" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:41 GMT 2021" timeOfAgreement="0.9836065573770492" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="119" runtime="0.057097552" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="BRAMAgent2@6432" deadline="60rounds">
+<resultsOfAgent agent="BRAMAgent2@6432" agentDesc="ANAC2012" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2012.BRAMAgent2.BRAMAgent2" userUtility="0.4304154636976689" finalUtility="1.0" discountedUtility="0.4304154636976689" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="NiceTitForTat@6433" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.Nice_Tit_for_Tat.NiceTitForTat" userUtility="0.350833966624434" finalUtility="0.8151053951696905" discountedUtility="0.350833966624434" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:41 GMT 2021" timeOfAgreement="0.3114754098360656" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="36" runtime="0.393277872" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="IAMhaggler2011@6438" deadline="60rounds">
+<resultsOfAgent agent="IAMhaggler2011@6438" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.IAMhaggler2011.IAMhaggler2011" userUtility="0.5556147914576435" finalUtility="0.725620106089855" discountedUtility="0.5556147914576435" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="NiceTitForTat@6439" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.Nice_Tit_for_Tat.NiceTitForTat" userUtility="0.7657103032214497" finalUtility="1.0" discountedUtility="0.7657103032214497" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:41 GMT 2021" timeOfAgreement="0.9836065573770492" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="118" runtime="0.044551975" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="NiceTitForTat@6460" deadline="60rounds">
+<resultsOfAgent agent="NiceTitForTat@6460" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.Nice_Tit_for_Tat.NiceTitForTat" userUtility="0.3123181144310167" finalUtility="0.725620106089855" discountedUtility="0.3123181144310167" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="NiceTitForTat@6461" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.Nice_Tit_for_Tat.NiceTitForTat" userUtility="0.4304154636976689" finalUtility="1.0" discountedUtility="0.4304154636976689" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:42 GMT 2021" timeOfAgreement="0.9836065573770492" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="119" runtime="0.040800994" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="Gahboninho@6462" deadline="60rounds">
+<resultsOfAgent agent="Gahboninho@6462" agentDesc="ANAC2011 compatible with non-linear utility spaces" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.Gahboninho.Gahboninho" userUtility="0.3123181144310167" finalUtility="0.725620106089855" discountedUtility="0.3123181144310167" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="NiceTitForTat@6463" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.Nice_Tit_for_Tat.NiceTitForTat" userUtility="0.4304154636976689" finalUtility="1.0" discountedUtility="0.4304154636976689" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:42 GMT 2021" timeOfAgreement="0.9836065573770492" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 23'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="119" runtime="0.06068525" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 23'' LCD]" startingAgent="Agent_K@6464" deadline="60rounds">
+<resultsOfAgent agent="Agent_K@6464" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2010.AgentK.Agent_K" userUtility="0.4050781539261099" finalUtility="0.9411329008630686" discountedUtility="0.4050781539261099" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="NiceTitForTat@6465" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.Nice_Tit_for_Tat.NiceTitForTat" userUtility="0.22308304806126725" finalUtility="0.5182970103926483" discountedUtility="0.22308304806126725" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:42 GMT 2021" timeOfAgreement="0.9836065573770492" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="119" runtime="0.040504402" finalOutcome="Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="IAMhaggler@6470" deadline="60rounds">
+<resultsOfAgent agent="IAMhaggler@6470" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2010.Southampton.IAMhaggler" userUtility="0.3761935737126" finalUtility="0.8740242984783759" discountedUtility="0.3761935737126" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="NiceTitForTat@6471" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.Nice_Tit_for_Tat.NiceTitForTat" userUtility="0.3761935737126" finalUtility="0.874024298478376" discountedUtility="0.3761935737126" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:42 GMT 2021" timeOfAgreement="0.7868852459016393" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="95" runtime="0.024685877" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="BoulwareNegotiationParty@6472" deadline="60rounds">
+<resultsOfAgent agent="BoulwareNegotiationParty@6472" agentDesc="Time-based agent" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.3696745907964703" finalUtility="0.725620106089855" discountedUtility="0.3696745907964703" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="NiceTitForTat@6473" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.Nice_Tit_for_Tat.NiceTitForTat" userUtility="0.5094602364156275" finalUtility="1.0" discountedUtility="0.5094602364156275" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:42 GMT 2021" timeOfAgreement="0.09836065573770492" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="11" runtime="0.004601232" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="ConcederNegotiationParty@6474" deadline="60rounds">
+<resultsOfAgent agent="ConcederNegotiationParty@6474" agentDesc="Time-based conceder" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" userUtility="0.6669573986669003" finalUtility="0.725620106089855" discountedUtility="0.6669573986669003" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="NiceTitForTat@6475" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.Nice_Tit_for_Tat.NiceTitForTat" userUtility="0.9191550689808333" finalUtility="1.0" discountedUtility="0.9191550689808333" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:42 GMT 2021" timeOfAgreement="0.26229508196721313" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="31" runtime="0.015151583" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="Agent21@6476" deadline="60rounds">
+<resultsOfAgent agent="Agent21@6476" agentDesc="Group 21 Agent that makes trade offs" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="group21.Agent21" userUtility="0.6801896675745835" finalUtility="0.851647611783233" discountedUtility="0.6801896675745835" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Gahboninho@6477" agentDesc="ANAC2011 compatible with non-linear utility spaces" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.Gahboninho.Gahboninho" userUtility="0.7516593320107718" finalUtility="0.9411329008630686" discountedUtility="0.7516593320107718" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:42 GMT 2021" timeOfAgreement="0.8524590163934426" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="102" runtime="0.024150184" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="TimeDependentAgentBoulware@6482" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware@6482" agentDesc="reluctant to concede" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.3494717906109576" finalUtility="0.725620106089855" discountedUtility="0.3494717906109576" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Gahboninho@6483" agentDesc="ANAC2011 compatible with non-linear utility spaces" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.Gahboninho.Gahboninho" userUtility="0.48161811901017226" finalUtility="1.0" discountedUtility="0.48161811901017226" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:42 GMT 2021" timeOfAgreement="0.16393442622950818" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="18" runtime="0.006166462" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="BayesianAgent@6484" deadline="60rounds">
+<resultsOfAgent agent="BayesianAgent@6484" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.BayesianAgent" userUtility="0.6305080256426796" finalUtility="0.725620106089855" discountedUtility="0.6305080256426796" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Gahboninho@6485" agentDesc="ANAC2011 compatible with non-linear utility spaces" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.Gahboninho.Gahboninho" userUtility="0.8689230361053453" finalUtility="1.0" discountedUtility="0.8689230361053453" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:42 GMT 2021" lastAction="(Offer  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="120" runtime="0.029230427" finalOutcome="-" startingAgent="BRAMAgent2@6486" deadline="60rounds">
+<resultsOfAgent agent="BRAMAgent2@6486" agentDesc="ANAC2012" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2012.BRAMAgent2.BRAMAgent2" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Gahboninho@6487" agentDesc="ANAC2011 compatible with non-linear utility spaces" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.Gahboninho.Gahboninho" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:42 GMT 2021" timeOfAgreement="0.3114754098360656" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="36" runtime="0.36184035" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="IAMhaggler2011@6488" deadline="60rounds">
+<resultsOfAgent agent="IAMhaggler2011@6488" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.IAMhaggler2011.IAMhaggler2011" userUtility="0.5556147914576435" finalUtility="0.725620106089855" discountedUtility="0.5556147914576435" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Gahboninho@6489" agentDesc="ANAC2011 compatible with non-linear utility spaces" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.Gahboninho.Gahboninho" userUtility="0.7657103032214497" finalUtility="1.0" discountedUtility="0.7657103032214497" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:42 GMT 2021" timeOfAgreement="0.9836065573770492" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="118" runtime="0.049898194" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="NiceTitForTat@6506" deadline="60rounds">
+<resultsOfAgent agent="NiceTitForTat@6506" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.Nice_Tit_for_Tat.NiceTitForTat" userUtility="0.3123181144310167" finalUtility="0.725620106089855" discountedUtility="0.3123181144310167" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Gahboninho@6507" agentDesc="ANAC2011 compatible with non-linear utility spaces" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.Gahboninho.Gahboninho" userUtility="0.4304154636976689" finalUtility="1.0" discountedUtility="0.4304154636976689" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:42 GMT 2021" timeOfAgreement="0.9836065573770492" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="119" runtime="0.026591752" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="Gahboninho@6512" deadline="60rounds">
+<resultsOfAgent agent="Gahboninho@6512" agentDesc="ANAC2011 compatible with non-linear utility spaces" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.Gahboninho.Gahboninho" userUtility="0.3123181144310167" finalUtility="0.725620106089855" discountedUtility="0.3123181144310167" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Gahboninho@6513" agentDesc="ANAC2011 compatible with non-linear utility spaces" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.Gahboninho.Gahboninho" userUtility="0.4304154636976689" finalUtility="1.0" discountedUtility="0.4304154636976689" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:42 GMT 2021" lastAction="(Offer  bid:Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="120" runtime="0.031248495" finalOutcome="-" startingAgent="Agent_K@6514" deadline="60rounds">
+<resultsOfAgent agent="Agent_K@6514" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2010.AgentK.Agent_K" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Gahboninho@6515" agentDesc="ANAC2011 compatible with non-linear utility spaces" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.Gahboninho.Gahboninho" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:42 GMT 2021" lastAction="(Offer  bid:Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="120" runtime="0.061849414" finalOutcome="-" startingAgent="IAMhaggler@6516" deadline="60rounds">
+<resultsOfAgent agent="IAMhaggler@6516" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2010.Southampton.IAMhaggler" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Gahboninho@6517" agentDesc="ANAC2011 compatible with non-linear utility spaces" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.Gahboninho.Gahboninho" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:42 GMT 2021" timeOfAgreement="0.7868852459016393" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="95" runtime="0.02174046" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="BoulwareNegotiationParty@6522" deadline="60rounds">
+<resultsOfAgent agent="BoulwareNegotiationParty@6522" agentDesc="Time-based agent" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.3696745907964703" finalUtility="0.725620106089855" discountedUtility="0.3696745907964703" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Gahboninho@6523" agentDesc="ANAC2011 compatible with non-linear utility spaces" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.Gahboninho.Gahboninho" userUtility="0.5094602364156275" finalUtility="1.0" discountedUtility="0.5094602364156275" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:42 GMT 2021" timeOfAgreement="0.09836065573770492" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="11" runtime="0.004034618" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="ConcederNegotiationParty@6524" deadline="60rounds">
+<resultsOfAgent agent="ConcederNegotiationParty@6524" agentDesc="Time-based conceder" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" userUtility="0.6669573986669003" finalUtility="0.725620106089855" discountedUtility="0.6669573986669003" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Gahboninho@6525" agentDesc="ANAC2011 compatible with non-linear utility spaces" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2011.Gahboninho.Gahboninho" userUtility="0.9191550689808333" finalUtility="1.0" discountedUtility="0.9191550689808333" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:43 GMT 2021" timeOfAgreement="0.5409836065573771" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="65" runtime="0.025760627" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="Agent21@6526" deadline="60rounds">
+<resultsOfAgent agent="Agent21@6526" agentDesc="Group 21 Agent that makes trade offs" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="group21.Agent21" userUtility="0.4564021002991355" finalUtility="0.725620106089855" discountedUtility="0.4564021002991355" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent_K@6527" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2010.AgentK.Agent_K" userUtility="0.6289821581137641" finalUtility="1.0" discountedUtility="0.6289821581137641" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:43 GMT 2021" timeOfAgreement="0.7540983606557377" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="90" runtime="0.021347782" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="TimeDependentAgentBoulware@6528" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware@6528" agentDesc="reluctant to concede" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.44624561696792336" finalUtility="0.851647611783233" discountedUtility="0.44624561696792336" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent_K@6529" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2010.AgentK.Agent_K" userUtility="0.49313404533017896" finalUtility="0.9411329008630686" discountedUtility="0.49313404533017896" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:43 GMT 2021" timeOfAgreement="0.16393442622950818" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="18" runtime="0.007530868" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="BayesianAgent@6534" deadline="60rounds">
+<resultsOfAgent agent="BayesianAgent@6534" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.BayesianAgent" userUtility="0.6305080256426796" finalUtility="0.725620106089855" discountedUtility="0.6305080256426796" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent_K@6535" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2010.AgentK.Agent_K" userUtility="0.8689230361053453" finalUtility="1.0" discountedUtility="0.8689230361053453" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:43 GMT 2021" timeOfAgreement="0.9672131147540983" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="117" runtime="0.026699326" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="BRAMAgent2@6536" deadline="60rounds">
+<resultsOfAgent agent="BRAMAgent2@6536" agentDesc="ANAC2012" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2012.BRAMAgent2.BRAMAgent2" userUtility="0.43650551475691846" finalUtility="1.0" discountedUtility="0.43650551475691846" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent_K@6537" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2010.AgentK.Agent_K" userUtility="0.3557980000996872" finalUtility="0.8151053951696905" discountedUtility="0.3557980000996872" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:43 GMT 2021" timeOfAgreement="0.3114754098360656" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="36" runtime="0.364924426" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="IAMhaggler2011@6538" deadline="60rounds">
+<resultsOfAgent agent="IAMhaggler2011@6538" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.IAMhaggler2011.IAMhaggler2011" userUtility="0.5556147914576435" finalUtility="0.725620106089855" discountedUtility="0.5556147914576435" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent_K@6539" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2010.AgentK.Agent_K" userUtility="0.7657103032214497" finalUtility="1.0" discountedUtility="0.7657103032214497" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:43 GMT 2021" timeOfAgreement="0.9836065573770492" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="118" runtime="0.034388358" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="NiceTitForTat@6556" deadline="60rounds">
+<resultsOfAgent agent="NiceTitForTat@6556" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.Nice_Tit_for_Tat.NiceTitForTat" userUtility="0.36656230173269255" finalUtility="0.851647611783233" discountedUtility="0.36656230173269255" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent_K@6557" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2010.AgentK.Agent_K" userUtility="0.4050781539261099" finalUtility="0.9411329008630686" discountedUtility="0.4050781539261099" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:43 GMT 2021" timeOfAgreement="0.9344262295081968" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="113" runtime="0.020112349" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="Gahboninho@6558" deadline="60rounds">
+<resultsOfAgent agent="Gahboninho@6558" agentDesc="ANAC2011 compatible with non-linear utility spaces" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.Gahboninho.Gahboninho" userUtility="0.448945344864568" finalUtility="1.0" discountedUtility="0.448945344864568" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent_K@6559" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2010.AgentK.Agent_K" userUtility="0.36593777273542666" finalUtility="0.8151053951696905" discountedUtility="0.36593777273542666" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:43 GMT 2021" timeOfAgreement="0.8360655737704918" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="101" runtime="0.021873221" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="Agent_K@6564" deadline="60rounds">
+<resultsOfAgent agent="Agent_K@6564" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2010.AgentK.Agent_K" userUtility="0.41597249874175696" finalUtility="0.851647611783233" discountedUtility="0.41597249874175696" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent_K@6565" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2010.AgentK.Agent_K" userUtility="0.4596800355024448" finalUtility="0.9411329008630686" discountedUtility="0.4596800355024448" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:43 GMT 2021" timeOfAgreement="0.8032786885245902" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="96" runtime="0.027022755" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="IAMhaggler@6566" deadline="60rounds">
+<resultsOfAgent agent="IAMhaggler@6566" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2010.Southampton.IAMhaggler" userUtility="0.4278271650377454" finalUtility="0.851647611783233" discountedUtility="0.4278271650377454" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent_K@6567" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2010.AgentK.Agent_K" userUtility="0.4727803088144857" finalUtility="0.9411329008630686" discountedUtility="0.4727803088144857" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:43 GMT 2021" timeOfAgreement="0.7540983606557377" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="90" runtime="0.021604184" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="BoulwareNegotiationParty@6568" deadline="60rounds">
+<resultsOfAgent agent="BoulwareNegotiationParty@6568" agentDesc="Time-based agent" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.44624561696792336" finalUtility="0.851647611783233" discountedUtility="0.44624561696792336" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent_K@6569" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2010.AgentK.Agent_K" userUtility="0.49313404533017896" finalUtility="0.9411329008630686" discountedUtility="0.49313404533017896" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:43 GMT 2021" timeOfAgreement="0.11475409836065574" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="12" runtime="0.004020673" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="ConcederNegotiationParty@6570" deadline="60rounds">
+<resultsOfAgent agent="ConcederNegotiationParty@6570" agentDesc="Time-based conceder" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" userUtility="0.6576521219294745" finalUtility="0.725620106089855" discountedUtility="0.6576521219294745" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent_K@6571" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2010.AgentK.Agent_K" userUtility="0.9063311730340009" finalUtility="1.0" discountedUtility="0.9063311730340009" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:43 GMT 2021" timeOfAgreement="0.26229508196721313" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="31" runtime="0.038505304" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="Agent21@6572" deadline="60rounds">
+<resultsOfAgent agent="Agent21@6572" agentDesc="Group 21 Agent that makes trade offs" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="group21.Agent21" userUtility="0.6801896675745835" finalUtility="0.851647611783233" discountedUtility="0.6801896675745835" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="IAMhaggler@6573" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2010.Southampton.IAMhaggler" userUtility="0.7516593320107718" finalUtility="0.9411329008630686" discountedUtility="0.7516593320107718" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:43 GMT 2021" timeOfAgreement="0.7377049180327869" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="89" runtime="0.025494572" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="TimeDependentAgentBoulware@6578" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware@6578" agentDesc="reluctant to concede" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.45255965264162734" finalUtility="0.851647611783233" discountedUtility="0.45255965264162734" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="IAMhaggler@6579" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2010.Southampton.IAMhaggler" userUtility="0.5001115165606841" finalUtility="0.9411329008630686" discountedUtility="0.5001115165606841" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:43 GMT 2021" timeOfAgreement="0.09836065573770492" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="11" runtime="0.005221311" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="BayesianAgent@6580" deadline="60rounds">
+<resultsOfAgent agent="BayesianAgent@6580" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.BayesianAgent" userUtility="0.7827962193559795" finalUtility="0.851647611783233" discountedUtility="0.7827962193559795" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="IAMhaggler@6581" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2010.Southampton.IAMhaggler" userUtility="0.8650470764129256" finalUtility="0.9411329008630686" discountedUtility="0.8650470764129256" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:43 GMT 2021" timeOfAgreement="0.9344262295081968" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="113" runtime="0.035086399" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="BRAMAgent2@6582" deadline="60rounds">
+<resultsOfAgent agent="BRAMAgent2@6582" agentDesc="ANAC2012" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2012.BRAMAgent2.BRAMAgent2" userUtility="0.448945344864568" finalUtility="1.0" discountedUtility="0.448945344864568" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="IAMhaggler@6583" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2010.Southampton.IAMhaggler" userUtility="0.36593777273542666" finalUtility="0.8151053951696905" discountedUtility="0.36593777273542666" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:44 GMT 2021" timeOfAgreement="0.06557377049180328" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="7" runtime="0.044818693" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="IAMhaggler2011@6584" deadline="60rounds">
+<resultsOfAgent agent="IAMhaggler2011@6584" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.IAMhaggler2011.IAMhaggler2011" userUtility="0.8051048767463027" finalUtility="0.851647611783233" discountedUtility="0.8051048767463027" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="IAMhaggler@6585" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2010.Southampton.IAMhaggler" userUtility="0.8896997744932428" finalUtility="0.9411329008630686" discountedUtility="0.8896997744932428" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:44 GMT 2021" timeOfAgreement="0.9344262295081968" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="113" runtime="0.036460301" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="NiceTitForTat@6590" deadline="60rounds">
+<resultsOfAgent agent="NiceTitForTat@6590" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.Nice_Tit_for_Tat.NiceTitForTat" userUtility="0.448945344864568" finalUtility="1.0" discountedUtility="0.448945344864568" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="IAMhaggler@6591" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2010.Southampton.IAMhaggler" userUtility="0.36593777273542666" finalUtility="0.8151053951696905" discountedUtility="0.36593777273542666" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:44 GMT 2021" timeOfAgreement="0.9344262295081968" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="113" runtime="0.031124929" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="Gahboninho@6592" deadline="60rounds">
+<resultsOfAgent agent="Gahboninho@6592" agentDesc="ANAC2011 compatible with non-linear utility spaces" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.Gahboninho.Gahboninho" userUtility="0.448945344864568" finalUtility="1.0" discountedUtility="0.448945344864568" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="IAMhaggler@6593" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2010.Southampton.IAMhaggler" userUtility="0.36593777273542666" finalUtility="0.8151053951696905" discountedUtility="0.36593777273542666" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:44 GMT 2021" timeOfAgreement="0.9016393442622951" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="109" runtime="0.043045606" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="Agent_K@6594" deadline="60rounds">
+<resultsOfAgent agent="Agent_K@6594" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2010.AgentK.Agent_K" userUtility="0.39323950739214325" finalUtility="0.851647611783233" discountedUtility="0.39323950739214325" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="IAMhaggler@6595" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2010.Southampton.IAMhaggler" userUtility="0.4345584173611583" finalUtility="0.9411329008630686" discountedUtility="0.4345584173611583" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:44 GMT 2021" timeOfAgreement="0.9180327868852459" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="110" runtime="0.029033653" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="IAMhaggler@6600" deadline="60rounds">
+<resultsOfAgent agent="IAMhaggler@6600" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2010.Southampton.IAMhaggler" userUtility="0.38775309634447086" finalUtility="0.851647611783233" discountedUtility="0.38775309634447086" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="IAMhaggler@6601" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2010.Southampton.IAMhaggler" userUtility="0.42849553187521" finalUtility="0.9411329008630686" discountedUtility="0.42849553187521" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:44 GMT 2021" timeOfAgreement="0.6885245901639344" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="83" runtime="0.022240172" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="BoulwareNegotiationParty@6602" deadline="60rounds">
+<resultsOfAgent agent="BoulwareNegotiationParty@6602" agentDesc="Time-based agent" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.4720428666329185" finalUtility="0.851647611783233" discountedUtility="0.4720428666329185" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="IAMhaggler@6603" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2010.Southampton.IAMhaggler" userUtility="0.521641893031025" finalUtility="0.9411329008630686" discountedUtility="0.521641893031025" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:44 GMT 2021" timeOfAgreement="0.09836065573770492" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="11" runtime="0.004923094" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="ConcederNegotiationParty@6604" deadline="60rounds">
+<resultsOfAgent agent="ConcederNegotiationParty@6604" agentDesc="Time-based conceder" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" userUtility="0.6669573986669003" finalUtility="0.725620106089855" discountedUtility="0.6669573986669003" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="IAMhaggler@6605" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.anac.y2010.Southampton.IAMhaggler" userUtility="0.9191550689808333" finalUtility="1.0" discountedUtility="0.9191550689808333" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:44 GMT 2021" timeOfAgreement="0.5245901639344263" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="63" runtime="0.030809799" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="Agent21@6606" deadline="60rounds">
+<resultsOfAgent agent="Agent21@6606" agentDesc="Group 21 Agent that makes trade offs" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="group21.Agent21" userUtility="0.46285984247803375" finalUtility="0.725620106089855" discountedUtility="0.46285984247803375" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BoulwareNegotiationParty@6607" agentDesc="Time-based agent" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.6378817766947555" finalUtility="1.0" discountedUtility="0.6378817766947555" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:44 GMT 2021" timeOfAgreement="0.7213114754098361" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="87" runtime="0.053352767" finalOutcome="Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="TimeDependentAgentBoulware@6608" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware@6608" agentDesc="reluctant to concede" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.4710220897105951" finalUtility="0.8740242984783759" discountedUtility="0.4710220897105951" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BoulwareNegotiationParty@6609" agentDesc="Time-based agent" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.4710220897105952" finalUtility="0.874024298478376" discountedUtility="0.4710220897105952" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:44 GMT 2021" timeOfAgreement="0.16393442622950818" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="18" runtime="0.006056533" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="BayesianAgent@6614" deadline="60rounds">
+<resultsOfAgent agent="BayesianAgent@6614" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.BayesianAgent" userUtility="0.6305080256426796" finalUtility="0.725620106089855" discountedUtility="0.6305080256426796" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BoulwareNegotiationParty@6615" agentDesc="Time-based agent" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.8689230361053453" finalUtility="1.0" discountedUtility="0.8689230361053453" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:44 GMT 2021" timeOfAgreement="0.7377049180327869" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="88" runtime="0.021390054" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="BRAMAgent2@6616" deadline="60rounds">
+<resultsOfAgent agent="BRAMAgent2@6616" agentDesc="ANAC2012" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2012.BRAMAgent2.BRAMAgent2" userUtility="0.5313930860371107" finalUtility="1.0" discountedUtility="0.5313930860371107" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BoulwareNegotiationParty@6617" agentDesc="Time-based agent" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.4331413713847204" finalUtility="0.8151053951696905" discountedUtility="0.4331413713847204" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:44 GMT 2021" timeOfAgreement="0.32786885245901637" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="38" runtime="0.367479988" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="IAMhaggler2011@6618" deadline="60rounds">
+<resultsOfAgent agent="IAMhaggler2011@6618" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.IAMhaggler2011.IAMhaggler2011" userUtility="0.547862947930224" finalUtility="0.725620106089855" discountedUtility="0.547862947930224" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BoulwareNegotiationParty@6619" agentDesc="Time-based agent" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.7550272426745311" finalUtility="1.0" discountedUtility="0.7550272426745311" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:44 GMT 2021" timeOfAgreement="0.7377049180327869" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="88" runtime="0.02193885" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="NiceTitForTat@6636" deadline="60rounds">
+<resultsOfAgent agent="NiceTitForTat@6636" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.Nice_Tit_for_Tat.NiceTitForTat" userUtility="0.5313930860371107" finalUtility="1.0" discountedUtility="0.5313930860371107" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BoulwareNegotiationParty@6637" agentDesc="Time-based agent" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.4331413713847204" finalUtility="0.8151053951696905" discountedUtility="0.4331413713847204" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:44 GMT 2021" timeOfAgreement="0.7377049180327869" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="88" runtime="0.017894534" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="Gahboninho@6638" deadline="60rounds">
+<resultsOfAgent agent="Gahboninho@6638" agentDesc="ANAC2011 compatible with non-linear utility spaces" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.Gahboninho.Gahboninho" userUtility="0.5313930860371107" finalUtility="1.0" discountedUtility="0.5313930860371107" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BoulwareNegotiationParty@6639" agentDesc="Time-based agent" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.4331413713847204" finalUtility="0.8151053951696905" discountedUtility="0.4331413713847204" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:44 GMT 2021" timeOfAgreement="0.7377049180327869" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="88" runtime="0.043269765" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="Agent_K@6640" deadline="60rounds">
+<resultsOfAgent agent="Agent_K@6640" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2010.AgentK.Agent_K" userUtility="0.5313930860371107" finalUtility="1.0" discountedUtility="0.5313930860371107" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BoulwareNegotiationParty@6641" agentDesc="Time-based agent" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.4331413713847204" finalUtility="0.8151053951696905" discountedUtility="0.4331413713847204" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:44 GMT 2021" timeOfAgreement="0.7377049180327869" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="88" runtime="0.023251876" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="IAMhaggler@6646" deadline="60rounds">
+<resultsOfAgent agent="IAMhaggler@6646" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2010.Southampton.IAMhaggler" userUtility="0.5313930860371107" finalUtility="1.0" discountedUtility="0.5313930860371107" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BoulwareNegotiationParty@6647" agentDesc="Time-based agent" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.4331413713847204" finalUtility="0.8151053951696905" discountedUtility="0.4331413713847204" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:45 GMT 2021" timeOfAgreement="0.6885245901639344" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="83" runtime="0.019805717" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="BoulwareNegotiationParty@6648" deadline="60rounds">
+<resultsOfAgent agent="BoulwareNegotiationParty@6648" agentDesc="Time-based agent" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.4720428666329185" finalUtility="0.851647611783233" discountedUtility="0.4720428666329185" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BoulwareNegotiationParty@6649" agentDesc="Time-based agent" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.521641893031025" finalUtility="0.9411329008630686" discountedUtility="0.521641893031025" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:45 GMT 2021" timeOfAgreement="0.11475409836065574" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="12" runtime="0.004444679" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="ConcederNegotiationParty@6650" deadline="60rounds">
+<resultsOfAgent agent="ConcederNegotiationParty@6650" agentDesc="Time-based conceder" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" userUtility="0.6576521219294745" finalUtility="0.725620106089855" discountedUtility="0.6576521219294745" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BoulwareNegotiationParty@6651" agentDesc="Time-based agent" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.9063311730340009" finalUtility="1.0" discountedUtility="0.9063311730340009" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:45 GMT 2021" timeOfAgreement="0.06557377049180328" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="6" runtime="0.004885362" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="Agent21@6652" deadline="60rounds">
+<resultsOfAgent agent="Agent21@6652" agentDesc="Group 21 Agent that makes trade offs" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="group21.Agent21" userUtility="0.9453497733182434" finalUtility="1.0" discountedUtility="0.9453497733182434" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ConcederNegotiationParty@6653" agentDesc="Time-based conceder" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" userUtility="0.7705597005541441" finalUtility="0.8151053951696905" discountedUtility="0.7705597005541441" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:45 GMT 2021" timeOfAgreement="0.06557377049180328" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="6" runtime="0.002913751" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="TimeDependentAgentBoulware@6654" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware@6654" agentDesc="reluctant to concede" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.9453497733182434" finalUtility="1.0" discountedUtility="0.9453497733182434" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ConcederNegotiationParty@6655" agentDesc="Time-based conceder" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" userUtility="0.7705597005541441" finalUtility="0.8151053951696905" discountedUtility="0.7705597005541441" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:45 GMT 2021" timeOfAgreement="0.04918032786885246" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="4" runtime="0.002866338" finalOutcome="Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="BayesianAgent@6656" deadline="60rounds">
+<resultsOfAgent agent="BayesianAgent@6656" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.BayesianAgent" userUtility="0.8379496034780919" finalUtility="0.8740242984783759" discountedUtility="0.8379496034780919" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ConcederNegotiationParty@6657" agentDesc="Time-based conceder" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" userUtility="0.837949603478092" finalUtility="0.874024298478376" discountedUtility="0.837949603478092" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:45 GMT 2021" timeOfAgreement="0.06557377049180328" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="6" runtime="0.002863769" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="BRAMAgent2@6658" deadline="60rounds">
+<resultsOfAgent agent="BRAMAgent2@6658" agentDesc="ANAC2012" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2012.BRAMAgent2.BRAMAgent2" userUtility="0.9453497733182434" finalUtility="1.0" discountedUtility="0.9453497733182434" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ConcederNegotiationParty@6659" agentDesc="Time-based conceder" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" userUtility="0.7705597005541441" finalUtility="0.8151053951696905" discountedUtility="0.7705597005541441" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:45 GMT 2021" timeOfAgreement="0.06557377049180328" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="6" runtime="0.003381686" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="IAMhaggler2011@6664" deadline="60rounds">
+<resultsOfAgent agent="IAMhaggler2011@6664" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.IAMhaggler2011.IAMhaggler2011" userUtility="0.9453497733182434" finalUtility="1.0" discountedUtility="0.9453497733182434" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ConcederNegotiationParty@6665" agentDesc="Time-based conceder" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" userUtility="0.7705597005541441" finalUtility="0.8151053951696905" discountedUtility="0.7705597005541441" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:45 GMT 2021" timeOfAgreement="0.06557377049180328" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="6" runtime="0.003729102" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="NiceTitForTat@6666" deadline="60rounds">
+<resultsOfAgent agent="NiceTitForTat@6666" agentDesc="ANAC2011" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.Nice_Tit_for_Tat.NiceTitForTat" userUtility="0.9453497733182434" finalUtility="1.0" discountedUtility="0.9453497733182434" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ConcederNegotiationParty@6667" agentDesc="Time-based conceder" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" userUtility="0.7705597005541441" finalUtility="0.8151053951696905" discountedUtility="0.7705597005541441" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:45 GMT 2021" timeOfAgreement="0.06557377049180328" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="6" runtime="0.003065754" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="Gahboninho@6668" deadline="60rounds">
+<resultsOfAgent agent="Gahboninho@6668" agentDesc="ANAC2011 compatible with non-linear utility spaces" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2011.Gahboninho.Gahboninho" userUtility="0.9453497733182434" finalUtility="1.0" discountedUtility="0.9453497733182434" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ConcederNegotiationParty@6669" agentDesc="Time-based conceder" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" userUtility="0.7705597005541441" finalUtility="0.8151053951696905" discountedUtility="0.7705597005541441" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:45 GMT 2021" timeOfAgreement="0.06557377049180328" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="6" runtime="0.002952189" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="Agent_K@6670" deadline="60rounds">
+<resultsOfAgent agent="Agent_K@6670" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2010.AgentK.Agent_K" userUtility="0.9453497733182434" finalUtility="1.0" discountedUtility="0.9453497733182434" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ConcederNegotiationParty@6671" agentDesc="Time-based conceder" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" userUtility="0.7705597005541441" finalUtility="0.8151053951696905" discountedUtility="0.7705597005541441" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:45 GMT 2021" timeOfAgreement="0.06557377049180328" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="6" runtime="0.003964823" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="IAMhaggler@6672" deadline="60rounds">
+<resultsOfAgent agent="IAMhaggler@6672" agentDesc="ANAC2010" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2010.Southampton.IAMhaggler" userUtility="0.9453497733182434" finalUtility="1.0" discountedUtility="0.9453497733182434" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ConcederNegotiationParty@6673" agentDesc="Time-based conceder" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" userUtility="0.7705597005541441" finalUtility="0.8151053951696905" discountedUtility="0.7705597005541441" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:45 GMT 2021" timeOfAgreement="0.06557377049180328" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="7" runtime="0.003013671" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="BoulwareNegotiationParty@6674" deadline="60rounds">
+<resultsOfAgent agent="BoulwareNegotiationParty@6674" agentDesc="Time-based agent" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.9453497733182434" finalUtility="1.0" discountedUtility="0.9453497733182434" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ConcederNegotiationParty@6675" agentDesc="Time-based conceder" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" userUtility="0.7705597005541441" finalUtility="0.8151053951696905" discountedUtility="0.7705597005541441" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Dec 17 14:19:45 GMT 2021" timeOfAgreement="0.04918032786885246" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="4" runtime="0.002433271" finalOutcome="Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="ConcederNegotiationParty@6676" deadline="60rounds">
+<resultsOfAgent agent="ConcederNegotiationParty@6676" agentDesc="Time-based conceder" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" userUtility="0.8379496034780919" finalUtility="0.8740242984783759" discountedUtility="0.8379496034780919" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ConcederNegotiationParty@6677" agentDesc="Time-based conceder" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" userUtility="0.837949603478092" finalUtility="0.874024298478376" discountedUtility="0.837949603478092" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Tournament>

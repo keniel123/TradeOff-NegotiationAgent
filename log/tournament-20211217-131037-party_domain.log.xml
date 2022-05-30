@@ -1,0 +1,1311 @@
+<?xml version="1.0" ?><Tournament>
+<NegotiationOutcome runtime="4.220043223" finalOutcome="Bid[Food: Finger-Food, Drinks: Handmade Cocktails, Location: Ballroom, Invitations: Custom, Printed, Music: MP3, Cleanup: Special Equiment]" startingAgent="Agent21@87" currentTime="Fri Dec 17 13:10:42 GMT 2021" timeOfAgreement="0.8852459016393442" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Handmade Cocktails, Location: Ballroom, Invitations: Custom, Printed, Music: MP3, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="196" deadline="60rounds">
+<resultsOfAgent agent="Agent21@87" agentDesc="Group 21 Agent that makes trade offs" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="group21.Agent21" userUtility="0.6408333333333334" finalUtility="0.6408333333333334" discountedUtility="0.6408333333333334" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21@88" agentDesc="Group 21 Agent that makes trade offs" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="group21.Agent21" userUtility="0.6336829119067992" finalUtility="0.6336829119067992" discountedUtility="0.6336829119067992" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21@89" agentDesc="Group 21 Agent that makes trade offs" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="group21.Agent21" userUtility="0.8160084578072917" finalUtility="0.8160084578072917" discountedUtility="0.8160084578072917" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21@90" agentDesc="Group 21 Agent that makes trade offs" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="group21.Agent21" userUtility="0.630951775" finalUtility="0.630951775" discountedUtility="0.630951775" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@91:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:10:42 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.375707337390438])" bids="0" runtime="0.004229563" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:10:45 GMT 2021" lastAction="null" bids="181" runtime="2.904658727" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:10:48 GMT 2021" lastAction="null" bids="154" runtime="2.945983746" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@104:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:10:48 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.031965021622975])" bids="1" runtime="0.007818221" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@107:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:10:48 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.375707337390438])" bids="0" runtime="0.004143016" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@112:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:10:48 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.031965021622975])" bids="1" runtime="0.004688116" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@116:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:10:48 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.031965021622975])" bids="1" runtime="0.004894073" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:10:51 GMT 2021" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Ballroom, Invitations: Plain, Music: DJ, Cleanup: Hired Help])" bids="144" runtime="2.328585893" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@123:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:10:51 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.375707337390438])" bids="0" runtime="0.004550395" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:10:53 GMT 2021" lastAction="null" bids="151" runtime="1.701086869" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:10:54 GMT 2021" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment])" bids="72" runtime="0.88193299" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:10:56 GMT 2021" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Ballroom, Invitations: Plain, Music: DJ, Cleanup: Hired Help])" bids="134" runtime="2.363715612" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@139:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:10:56 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.375707337390438])" bids="0" runtime="0.004341059" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:10:58 GMT 2021" lastAction="null" bids="142" runtime="1.642489407" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:10:59 GMT 2021" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment])" bids="68" runtime="0.851749135" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@153:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:10:59 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.828668499200397])" bids="2" runtime="0.043190005" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@155:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:10:59 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.375707337390438])" bids="0" runtime="0.00390776" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@161:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:10:59 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.828668499200397])" bids="2" runtime="0.041009722" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@165:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:00 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.828668499200397])" bids="2" runtime="0.041917983" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@168:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:00 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.031965021622975])" bids="1" runtime="0.008520013" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@171:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:00 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.375707337390438])" bids="0" runtime="0.004047899" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@176:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:00 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.031965021622975])" bids="1" runtime="0.005041575" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@180:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:00 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.031965021622975])" bids="1" runtime="0.00484272" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@185:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:00 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.828668499200397])" bids="2" runtime="0.008429017" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@187:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:00 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.375707337390438])" bids="0" runtime="0.006124887" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@193:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:00 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.828668499200397])" bids="2" runtime="0.005061896" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@197:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:00 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.828668499200397])" bids="2" runtime="0.005438708" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@201:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:00 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.828668499200397])" bids="2" runtime="0.008594295" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@203:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:00 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.375707337390438])" bids="0" runtime="0.004402137" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@209:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:01 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.828668499200397])" bids="2" runtime="0.005406998" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@213:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:01 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.828668499200397])" bids="2" runtime="0.005432332" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:03 GMT 2021" lastAction="(Accept  bid:Bid[Food: Handmade Food, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap])" bids="157" runtime="2.503406713" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@219:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:03 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.375707337390438])" bids="0" runtime="0.004914575" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:05 GMT 2021" lastAction="null" bids="143" runtime="1.692883235" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:08 GMT 2021" lastAction="null" bids="125" runtime="2.419955946" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@232:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:08 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.031965021622975])" bids="1" runtime="0.01542527" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@235:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:08 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.375707337390438])" bids="0" runtime="0.010608656" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@240:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:08 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.031965021622975])" bids="1" runtime="0.011140978" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@244:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:08 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.031965021622975])" bids="1" runtime="0.007636236" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:11 GMT 2021" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Ballroom, Invitations: Photo, Music: DJ, Cleanup: Special Equiment])" bids="140" runtime="2.603919358" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@251:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:11 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.375707337390438])" bids="0" runtime="0.004533257" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:12 GMT 2021" lastAction="null" bids="143" runtime="0.86009573" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:13 GMT 2021" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment])" bids="72" runtime="0.471065225" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:14 GMT 2021" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap])" bids="65" runtime="1.09237765" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@267:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:14 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.375707337390438])" bids="0" runtime="0.004660179" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:15 GMT 2021" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Specialized Materials])" bids="117" runtime="1.057726232" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:16 GMT 2021" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap])" bids="21" runtime="0.269956742" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:20 GMT 2021" lastAction="(Accept  bid:Bid[Food: Handmade Food, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap])" bids="144" runtime="3.631690404" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@283:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:20 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.375707337390438])" bids="0" runtime="0.003912914" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:22 GMT 2021" lastAction="(Accept  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Water and Soap])" bids="177" runtime="2.404014562" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:25 GMT 2021" lastAction="null" bids="155" runtime="2.467417958" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@296:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:25 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.031965021622975])" bids="1" runtime="0.010732426" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@299:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:25 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.375707337390438])" bids="0" runtime="0.004118071" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@304:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:25 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.031965021622975])" bids="1" runtime="0.004914827" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@308:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:25 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.031965021622975])" bids="1" runtime="0.005418442" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:27 GMT 2021" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Ballroom, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment])" bids="131" runtime="1.664154106" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@315:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:27 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.375707337390438])" bids="0" runtime="0.0042804" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:28 GMT 2021" lastAction="null" bids="177" runtime="1.166267489" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:29 GMT 2021" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment])" bids="72" runtime="0.486365551" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:30 GMT 2021" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap])" bids="60" runtime="0.860851206" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@331:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:30 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.375707337390438])" bids="0" runtime="0.007017261" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:31 GMT 2021" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Specialized Materials])" bids="105" runtime="0.729224642" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:31 GMT 2021" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap])" bids="20" runtime="0.195448208" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@346:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:31 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.68342424194558])" bids="3" runtime="0.085531435" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@347:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:32 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.375707337390438])" bids="0" runtime="0.004876546" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@354:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:32 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.68342424194558])" bids="3" runtime="0.085194148" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@358:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:32 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.68342424194558])" bids="3" runtime="0.088915052" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@360:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:32 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.031965021622975])" bids="1" runtime="0.01146488" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@363:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:32 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.375707337390438])" bids="0" runtime="0.004004922" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@368:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:32 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.031965021622975])" bids="1" runtime="0.005005043" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@372:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:32 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.031965021622975])" bids="1" runtime="0.005250849" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@378:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:33 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.68342424194558])" bids="3" runtime="0.051827636" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@379:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:33 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.375707337390438])" bids="0" runtime="0.004071738" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@386:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:33 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.68342424194558])" bids="3" runtime="0.045151817" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@390:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:33 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.68342424194558])" bids="3" runtime="0.043778966" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@394:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:33 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.68342424194558])" bids="3" runtime="0.050540867" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@395:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:33 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.375707337390438])" bids="0" runtime="0.003840847" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@402:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:33 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.68342424194558])" bids="3" runtime="0.047037993" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@406:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:33 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.68342424194558])" bids="3" runtime="0.045773882" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@409:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:34 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.828668499200397])" bids="2" runtime="0.04845825" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@411:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:34 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.375707337390438])" bids="0" runtime="0.004584918" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@417:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:34 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.828668499200397])" bids="2" runtime="0.04511904" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@421:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:34 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.828668499200397])" bids="2" runtime="0.041516929" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@424:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:34 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.031965021622975])" bids="1" runtime="0.009249643" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@429:java.lang.ArrayIndexOutOfBoundsException: 101: 101" currentTime="Fri Dec 17 13:11:34 GMT 2021" lastAction="(Offer  bid:Bid[Food: 10.0])" bids="67" runtime="0.053144654" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@433:java.lang.ArrayIndexOutOfBoundsException: 101: 101" currentTime="Fri Dec 17 13:11:34 GMT 2021" lastAction="(Offer  bid:Bid[Food: 10.0])" bids="101" runtime="0.061733538" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@437:java.lang.ArrayIndexOutOfBoundsException: 101: 101" currentTime="Fri Dec 17 13:11:34 GMT 2021" lastAction="(Offer  bid:Bid[Food: 10.0])" bids="101" runtime="0.050344846" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@441:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:34 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.828668499200397])" bids="2" runtime="0.009956897" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:35 GMT 2021" lastAction="(Accept  bid:Bid[Food: 11.828668499200397])" bids="3" runtime="0.005814012" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:35 GMT 2021" lastAction="null" bids="3" runtime="0.005247553" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:35 GMT 2021" lastAction="null" bids="3" runtime="0.004835262" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@457:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:35 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.828668499200397])" bids="2" runtime="0.009753651" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:35 GMT 2021" lastAction="(Accept  bid:Bid[Food: 11.828668499200397])" bids="3" runtime="0.00527302" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:35 GMT 2021" lastAction="null" bids="3" runtime="0.00462675" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:35 GMT 2021" lastAction="null" bids="3" runtime="0.00501126" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@474:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:35 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.68342424194558])" bids="3" runtime="0.049223635" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@475:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:35 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.375707337390438])" bids="0" runtime="0.003451699" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@482:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:35 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.68342424194558])" bids="3" runtime="0.044273246" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@486:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:35 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.68342424194558])" bids="3" runtime="0.044509455" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@488:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:36 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.031965021622975])" bids="1" runtime="0.009859814" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@494:java.lang.ArrayIndexOutOfBoundsException: 102: 102" currentTime="Fri Dec 17 13:11:36 GMT 2021" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Ballroom, Invitations: Custom, Printed, Music: Band, Cleanup: Hired Help])" bids="101" runtime="0.049601858" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@498:java.lang.ArrayIndexOutOfBoundsException: 102: 102" currentTime="Fri Dec 17 13:11:36 GMT 2021" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Ballroom, Invitations: Custom, Printed, Music: Band, Cleanup: Hired Help])" bids="135" runtime="0.056541067" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@502:java.lang.ArrayIndexOutOfBoundsException: 102: 102" currentTime="Fri Dec 17 13:11:36 GMT 2021" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Ballroom, Invitations: Custom, Printed, Music: Band, Cleanup: Hired Help])" bids="135" runtime="0.053514051" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@506:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:36 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.68342424194558])" bids="3" runtime="0.010162757" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:36 GMT 2021" lastAction="(Accept  bid:Bid[Food: 11.68342424194558])" bids="4" runtime="0.006501212" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@514:java.lang.ArrayIndexOutOfBoundsException: 102: 102" currentTime="Fri Dec 17 13:11:36 GMT 2021" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Ballroom, Invitations: Custom, Printed, Music: Band, Cleanup: Hired Help])" bids="135" runtime="0.049598542" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@518:java.lang.ArrayIndexOutOfBoundsException: 102: 102" currentTime="Fri Dec 17 13:11:36 GMT 2021" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Ballroom, Invitations: Custom, Printed, Music: Band, Cleanup: Hired Help])" bids="135" runtime="0.047213176" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@522:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:36 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.68342424194558])" bids="3" runtime="0.010462245" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:36 GMT 2021" lastAction="(Accept  bid:Bid[Food: 11.68342424194558])" bids="4" runtime="0.005591818" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:37 GMT 2021" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Specialized Materials])" bids="117" runtime="0.043118238" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:37 GMT 2021" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap])" bids="21" runtime="0.011219374" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@538:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:37 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.68342424194558])" bids="3" runtime="0.047497084" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@539:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:37 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.375707337390438])" bids="0" runtime="0.002994383" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@546:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:37 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.68342424194558])" bids="3" runtime="0.048064696" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@550:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:37 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.68342424194558])" bids="3" runtime="0.043792381" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@552:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:37 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.031965021622975])" bids="1" runtime="0.009571518" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@558:java.lang.ArrayIndexOutOfBoundsException: 102: 102" currentTime="Fri Dec 17 13:11:37 GMT 2021" lastAction="(Offer  bid:Bid[Food: Handmade Food, Drinks: Catering, Location: Party Room, Invitations: Photo, Music: MP3, Cleanup: Hired Help])" bids="101" runtime="0.049038699" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@562:java.lang.ArrayIndexOutOfBoundsException: 102: 102" currentTime="Fri Dec 17 13:11:37 GMT 2021" lastAction="(Offer  bid:Bid[Food: Handmade Food, Drinks: Catering, Location: Party Room, Invitations: Photo, Music: MP3, Cleanup: Hired Help])" bids="135" runtime="0.051786209" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@566:java.lang.ArrayIndexOutOfBoundsException: 102: 102" currentTime="Fri Dec 17 13:11:38 GMT 2021" lastAction="(Offer  bid:Bid[Food: Handmade Food, Drinks: Catering, Location: Party Room, Invitations: Photo, Music: MP3, Cleanup: Hired Help])" bids="135" runtime="0.047642725" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@570:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:38 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.68342424194558])" bids="3" runtime="0.010749684" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:38 GMT 2021" lastAction="(Accept  bid:Bid[Food: 11.68342424194558])" bids="4" runtime="0.005052797" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@578:java.lang.ArrayIndexOutOfBoundsException: 102: 102" currentTime="Fri Dec 17 13:11:38 GMT 2021" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap])" bids="130" runtime="0.047951804" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@582:java.lang.ArrayIndexOutOfBoundsException: 102: 102" currentTime="Fri Dec 17 13:11:38 GMT 2021" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap])" bids="130" runtime="0.052046725" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@586:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:38 GMT 2021" lastAction="(Offer  bid:Bid[Food: 11.68342424194558])" bids="3" runtime="0.01032382" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:38 GMT 2021" lastAction="(Accept  bid:Bid[Food: 11.68342424194558])" bids="4" runtime="0.005068958" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:38 GMT 2021" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Specialized Materials])" bids="105" runtime="0.051860899" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:38 GMT 2021" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap])" bids="20" runtime="0.011620721" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentConceder" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.TimeDependentAgentConceder" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:41 GMT 2021" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Tent, Invitations: Custom, Printed, Music: Band, Cleanup: Water and Soap])" bids="150" runtime="2.654709225" deadline="60rounds">
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of FuzzyAgent@603:java.lang.ClassCastException: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete: genius.core.issue.ValueReal cannot be cast to genius.core.issue.ValueDiscrete" currentTime="Fri Dec 17 13:11:41 GMT 2021" lastAction="(Offer  bid:Bid[Food: 12.375707337390438])" bids="0" runtime="0.003829926" deadline="60rounds">
+<resultsOfAgent agent="FuzzyAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FuzzyAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 17 13:11:44 GMT 2021" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Tent, Invitations: Custom, Printed, Music: Band, Cleanup: Water and Soap])" bids="150" runtime="2.164099264" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent21" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="/Users/kenielpeart/IdeaProjects/Group21/out/production/Group21/group21/Agent21.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>

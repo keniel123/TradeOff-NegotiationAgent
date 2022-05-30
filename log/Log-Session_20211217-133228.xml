@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Fri Dec 17 13:32:30 GMT 2021" timeOfAgreement="0.7213114754098361" lastAction="(Accept  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Plain, Music: MP3, Cleanup: Water and Soap])" domain="etc/templates/partydomain/party_domain.xml" bids="87" runtime="1.110125791" finalOutcome="Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Plain, Music: MP3, Cleanup: Water and Soap]" startingAgent="Agent21@4" deadline="60rounds">
+<resultsOfAgent agent="Agent21@4" agentDesc="Group 21 Agent that makes trade offs" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="group21.Agent21" userUtility="0.6458333333333333" finalUtility="0.6458333333333333" discountedUtility="0.6458333333333333" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Gahboninho@5" agentDesc="ANAC2011 compatible with non-linear utility spaces" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2011.Gahboninho.Gahboninho" userUtility="0.9835232614447449" finalUtility="0.9835232614447449" discountedUtility="0.9835232614447449" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>
